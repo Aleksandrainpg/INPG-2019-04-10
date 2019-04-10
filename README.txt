@@ -1,4 +1,4 @@
-To jest pierwsza linijka kodu.
+To jest pierwsza linijka kota.
 To jest ósma linijka kodu. aha
 To jest trzecia linijka kodu.
 To jest czwarta linijka kodu.
